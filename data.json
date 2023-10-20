@@ -1,0 +1,37 @@
+{
+    "crossword": {
+        "theme": "Classical Greece and Rome",
+        "words": [
+            { "word": "ATHENA", "clue": "Greek goddess of wisdom and warfare" },
+            { "word": "SPARTA", "clue": "City-state known for its militaristic society" },
+            { "word": "AUGUSTUS", "clue": "First emperor of Rome" },
+            { "word": "PLATO", "clue": "Philosopher who wrote 'The Republic'" },
+            { "word": "VESUVIUS", "clue": "Volcano that erupted in 79 AD, destroying Pompeii" },
+            { "word": "OLYMPICS", "clue": "Ancient games held in honor of Zeus" },
+            { "word": "CAESAR", "clue": "Roman general famously assassinated in 44 BC" },
+            { "word": "MEDUSA", "clue": "Gorgon with snakes for hair" },
+            { "word": "HADRIAN", "clue": "Roman emperor known for building a wall in Britain" },
+            { "word": "ORACLE", "clue": "Sacred shrine where the ancient Greeks consulted the gods" },
+            { "word": "TROJAN", "clue": "Related to the ancient city destroyed by the Greeks after a deceptive wooden horse ploy" },
+            { "word": "LATIN", "clue": "Language of ancient Rome" },
+            { "word": "ACROPOLIS", "clue": "Elevated fortress in Athens containing the Parthenon" },
+            { "word": "ARENA", "clue": "Venue for gladiatorial combat" },
+            { "word": "HOMER", "clue": "Epic poet known for 'The Iliad' and 'The Odyssey'" },
+            { "word": "ALEXANDER", "clue": "Macedonian conqueror known as 'the Great'" },
+            { "word": "SENATE", "clue": "Main institution of power in the Roman Republic" },
+            { "word": "DEMOCRACY", "clue": "Form of government pioneered by the Athenians" },
+            { "word": "MINOTAUR", "clue": "Creature that was half-man, half-bull" },
+            { "word": "MARCUS", "clue": "First name of the Stoic philosopher Aurelius" },
+            { "word": "DRACHMA", "clue": "Ancient Greek currency" },
+            { "word": "EPICUREAN", "clue": "Philosophy focused on achieving pleasure and avoiding pain" },
+            { "word": "FORUM", "clue": "Public square of ancient Roman cities" },
+            { "word": "STOIC", "clue": "Philosophy that taught the value of virtue and wisdom over pleasure or pain" },
+            { "word": "ODYSSEY", "clue": "Epic journey of a Greek hero returning home from the Trojan War" },
+            { "word": "CENTURION", "clue": "Commander of a unit of Roman soldiers" },
+            { "word": "LYRIC", "clue": "Type of poetry that was often sung and accompanied by a lyre" },
+            { "word": "CICERO", "clue": "Famous Roman orator and statesman" },
+            { "word": "PYTHAGORAS", "clue": "Ancient mathematician known for a theorem about right triangles" },
+            { "word": "MARS", "clue": "Roman god of war" }
+        ]
+    }
+}
